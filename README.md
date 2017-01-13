@@ -1,7 +1,11 @@
 # Shapes
 In **Shape** you can find **Shape3D** abstract class, from which **Ellipsoid** and **Parallelepiped** classes were inherited. In **Ellipsoid** and **Parallelepiped** classes were written the calculation of *volumes* and *surfaces* of appropriate geometrical objects.
 
-Below mentioned code you can use to execute the program (**UserProgram** file).
+Below mentioned code you can use to execute the program (**UserProgram** file) with the following inputs:
+
+#Inputs
+Ellipsoid(10, 20, 70)
+Parallelepiped(20, 10, 20)
 
 #UserProgram
 ~~~
@@ -12,5 +16,7 @@ Console.WriteLine("The Volume of parallelepiped = {0}, the Surface of parallelep
 Console.Read();
 ~~~
 #Outputs
-The Volume of ellopsoid = 43960, the Surface of ellipsoid = 10800.47
-The Volume of parallelepiped = 4000, the Surface of parallelepiped = 1600
+Ellipsoid Volume = 43960, 
+Ellipsoid Surface = 10800.47
+Parallelepiped Volume = 4000
+Parallelepiped Surface = 1600
