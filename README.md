@@ -1,5 +1,5 @@
 # Shapes
-In **Shape** you can find **Shape3D** abstract class, from which **Ellipsoid** and **Parallelepiped** classes were inherited. In **Ellipsoid** and **Parallelepiped** classes were written the calculation of *volumes* and *surfaces* of appropriate geometrical objects.
+In **Shape** you can find **Shape3D** abstract class, from which **Ellipsoid** and **Parallelepiped** classes were inherited. In **Ellipsoid** and **Parallelepiped** classes were written the formulas of calculation appropriate geometrical objects' *volumes* and *surfaces*.
 
 Below mentioned code you can use to execute the program (**UserProgram** file) with the following inputs:
 
