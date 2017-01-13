@@ -5,7 +5,7 @@ Below mentioned code you can use to execute the program (**UserProgram** file) w
 
 #Inputs
 - Ellipsoid(10, 20, 70)
--- Parallelepiped(20, 10, 20)
+- Parallelepiped(20, 10, 20)
 
 #UserProgram
 ~~~
