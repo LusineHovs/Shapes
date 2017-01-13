@@ -16,7 +16,7 @@ Console.WriteLine("The Volume of parallelepiped = {0}, the Surface of parallelep
 Console.Read();
 ~~~
 #Outputs
- Ellipsoid Volume = 43960 
- Ellipsoid Surface = 10800.47
- Parallelepiped Volume = 4000
- Parallelepiped Surface = 1600
+- Ellipsoid Volume = 43960 
+- Ellipsoid Surface = 10800.47
+- Parallelepiped Volume = 4000
+- Parallelepiped Surface = 1600
