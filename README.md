@@ -4,8 +4,8 @@ In **Shape** you can find **Shape3D** abstract class, from which **Ellipsoid** a
 Below mentioned code you can use to execute the program (**UserProgram** file) with the following inputs:
 
 #Inputs
-Ellipsoid(10, 20, 70)
-Parallelepiped(20, 10, 20)
+> Ellipsoid(10, 20, 70)
+> Parallelepiped(20, 10, 20)
 
 #UserProgram
 ~~~
