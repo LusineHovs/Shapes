@@ -8,13 +8,13 @@ Below mentioned code you can use to execute the program (**UserProgram** file) w
 - Parallelepiped(20, 10, 20)
 
 #UserProgram
-~~~
+```C#
 Ellipsoid elips = new Ellipsoid(10, 20, 70);
-Console.WriteLine("The Volume of ellopsoid = {0}, the Surface of ellipsoid = {1}", elips.Volume, elips.Surface);
+Console.WriteLine($"The Volume of ellopsoid = {elips.Volume}, the Surface of ellipsoid = {elips.Surface}");
 Parallelepiped piped = new Parallelepiped(20, 10, 20);
-Console.WriteLine("The Volume of parallelepiped = {0}, the Surface of parallelepiped = {1}", piped.Volume, piped.Surface);
+Console.WriteLine($"The Volume of parallelepiped = {piped.Volume}, the Surface of parallelepiped = {piped.Surface}");
 Console.Read();
-~~~
+```
 #Outputs
 - Ellipsoid Volume = 43960 
 - Ellipsoid Surface = 10800.47
